@@ -14,7 +14,7 @@ This project analyzes student data to identify factors affecting performance.
 - Higher study time increases pass rate
 
 ## 📷 Dashboard Preview
-![Dashboard](Student_Performance_Dashboard)
+![Dashboard](Student_dashboard1)
 
 ## 📂 Dataset
 Dataset is included in this repository.
